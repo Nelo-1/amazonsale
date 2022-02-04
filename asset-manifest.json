@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazonsale/static/css/main.f92ecc4e.chunk.css",
+    "main.js": "/amazonsale/static/js/main.d79c0bb3.chunk.js",
+    "main.js.map": "/amazonsale/static/js/main.d79c0bb3.chunk.js.map",
+    "runtime-main.js": "/amazonsale/static/js/runtime-main.7660f8b7.js",
+    "runtime-main.js.map": "/amazonsale/static/js/runtime-main.7660f8b7.js.map",
+    "static/js/2.88ac0dc1.chunk.js": "/amazonsale/static/js/2.88ac0dc1.chunk.js",
+    "static/js/2.88ac0dc1.chunk.js.map": "/amazonsale/static/js/2.88ac0dc1.chunk.js.map",
+    "static/js/3.11c2e1eb.chunk.js": "/amazonsale/static/js/3.11c2e1eb.chunk.js",
+    "static/js/3.11c2e1eb.chunk.js.map": "/amazonsale/static/js/3.11c2e1eb.chunk.js.map",
+    "index.html": "/amazonsale/index.html",
+    "static/css/main.f92ecc4e.chunk.css.map": "/amazonsale/static/css/main.f92ecc4e.chunk.css.map",
+    "static/js/2.88ac0dc1.chunk.js.LICENSE.txt": "/amazonsale/static/js/2.88ac0dc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7660f8b7.js",
+    "static/js/2.88ac0dc1.chunk.js",
+    "static/css/main.f92ecc4e.chunk.css",
+    "static/js/main.d79c0bb3.chunk.js"
+  ]
+}
